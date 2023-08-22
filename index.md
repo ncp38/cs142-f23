@@ -19,14 +19,14 @@ seo:
 {% endif %}
 
 ## Administrivia
-- Instructor: Phillip Kirlin
-- Office hours: Mon 12-1, Tue 9-10:30, Wed 3-4, Thu 10-11:30.  Also available by appointment and over Slack.
-- [Canvas page](https://rhodes.instructure.com/courses/4029): Use for grades, online assignment submissions, and assignment solutions.
-- [Syllabus](syllabus/syllabus-142-f22.pdf) and [additional policies](syllabus/additional-policies.pdf).
+- Instructor: Nate Phillips
+- Office hours: Mon 1-3 PM, Wed 1-3 PM.  Also available by appointment and over Slack or Zoom.
+- [Section 1 Canvas page](https://rhodes.instructure.com/courses/5966) and [Section 2 Canvas page](https://rhodes.instructure.com/courses/5967): Use for grades, online assignment submissions, and assignment solutions.
+- [Syllabus](syllabus/syllabus-142-f23.pdf) and [additional policies](syllabus/additional-policies-142-f23.pdf).
 - Tutoring hours: Sunday through Thursday evenings, 5-11pm, Briggs 001
 - <font color=red>Final exam times:</font>
-  - Friday, December 9, 1-3:30, FJ-B
-  - Monday, Dec 12, 8:30-11:00, Spence Wilson Room (in Briggs)
+  - Section 1: Tuesday, Dec 12, 8:30-10:30 AM
+  - Section 2: Friday, December 8, 1-3:00 PM
 
 ## Resources
 - Textbooks and tutorials: *Introduction to Java* by Liang (textbook), 
