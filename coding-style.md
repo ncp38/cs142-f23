@@ -30,8 +30,8 @@ over multiple lines anywhere where a space would be allowed. Unlike Python, no e
 - Here is an example:
 	```java
 	/*
-		Name: Phil Kirlin
-		Date: 9/9/2021
+		Name: Nate Phillips
+		Date: 9/9/2023
 		Class: CS142
 		Pledge: I have neither given nor received unauthorized aid on this program. 
 		Description: Skynet is a artificial intelligence system which guides
