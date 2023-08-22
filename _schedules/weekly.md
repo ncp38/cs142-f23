@@ -33,16 +33,16 @@ schedule:
   - name: Wednesday
     events:
       - name: 01 Lecture
-        start: 10:00 AM
+        start: 9:00 AM
         end: 10:50 AM
         location: Briggs 001
       - name: 02 Lecture
         start: 11:00 AM
-        end: 11:50AM
+        end: 11:50 AM
         location: Briggs 001
   - name: Thursday
   - name: Friday
-	events:
+    events:
       - name: 01 Lab
         start: 9:00 AM
         end: 10:50 AM
