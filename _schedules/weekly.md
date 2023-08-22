@@ -33,7 +33,7 @@ schedule:
   - name: Wednesday
     events:
       - name: 01 Lecture
-        start: 9:00 AM
+        start: 10:00 AM
         end: 10:50 AM
         location: Briggs 001
       - name: 02 Lecture
