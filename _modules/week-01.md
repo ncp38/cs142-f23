@@ -6,7 +6,7 @@ Wed, Aug 23
 : **Introduction, go over syllabus, introduce Java.**  
   Printing, variables, user input, math, if/else, loops.  
   [Java basics](lectures/intro/java-basics.pdf).
-: [**Slides**](lectures/intro/intro-1-slides.pdf){: .label-button } 
+: [**Slides**](lectures/intro/CS142Intro1Slides.pdf){: .label-button } 
   [**Code**](lectures/intro/Main.java){: .label-button } 
 : **Reading**{: .label .label-reading} Liang chapter 2 (basics), chapter 3 (if statements).
 
