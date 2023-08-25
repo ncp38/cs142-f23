@@ -14,7 +14,7 @@ Fri, Aug 25
   Random number generation, while loops.  
   [Programs for today](lectures/intro/scheduleLab1.pdf)
   [while loop handout](lectures/intro/while-loops-handout.pdf).
-  [**Example Code**](lectures/intro/introductionToJava.java){: .label-button } 
+: [**Example Code**](lectures/intro/introductionToJava.java){: .label-button } 
   [**The Problem Code**](lectures/intro/problemCode.java){: .label-button }   
 : **Reading**{: .label .label-reading} Liang chapter 5 (loops).
 
