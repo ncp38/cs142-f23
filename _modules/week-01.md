@@ -24,16 +24,16 @@ Mon, Aug 28
 : **Continue with Java.**  
   For loops and functions.  
   [for loop handout](lectures/intro/for-loops-handout.pdf),
-  : **For Loop Code**{: .label .label-lab } [**Lab 1**](lectures/intro/forLoop.java)
+: **For Loop Code**{: .label .label-lab } [**Lab 1**](lectures/intro/forLoop.java)
   [functions handout](lectures/intro/functions-handout.pdf),
   [functions practice](lectures/intro/functions-practice.pdf).  
 : **Reading**{: .label .label-reading} Liang chapter 5 (loops) and chapter 6 (functions).
 
 Wed, Aug 30
-: **Lab**{: .label .label-lab } [**Lab 1**](<!--- labs/lab1/)--->
+: **Practice with functions, intro to OOP.**  
+:  [Handout with practice problems](lectures/intro/functions-practice.pdf).  
 : **Reading**{: .label .label-reading} Liang 7.0-7.8 (arrays).
  : **Project**{: .label .label-proj } [**Project 1**](projects/proj1) (due Thu, Sep 8)
 
 Fri, Sep 1
-: **Practice with functions.**  
-  [Handout with practice problems](lectures/intro/functions-practice.pdf).  
+: **Lab**{: .label .label-lab } [**Lab 1**](<!--- labs/lab1/)--->
