@@ -24,7 +24,7 @@ Mon, Aug 28
 : **Continue with Java.**  
   For loops and functions.  
   [for loop handout](lectures/intro/for-loops-handout.pdf)
- [**For Loop Code**](lectures/intro/forLoop.java) {: .label .label-button }
+ [**For Loop Code**](lectures/intro/forLoop.java){: .label .label-button }
 :  [Functions handout](lectures/intro/functions-handout.pdf),
   [functions practice](lectures/intro/functions-practice.pdf).  
 : **Reading**{: .label .label-reading} Liang chapter 5 (loops) and chapter 6 (functions).
