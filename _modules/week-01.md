@@ -23,9 +23,9 @@ Fri, Aug 25
 Mon, Aug 28
 : **Continue with Java.**  
   For loops and functions.  
-  [for loop handout](lectures/intro/for-loops-handout.pdf),
-: **For Loop Code**{: .label .label-lab } [**Lab 1**](lectures/intro/forLoop.java)
-  [functions handout](lectures/intro/functions-handout.pdf),
+  [for loop handout](lectures/intro/for-loops-handout.pdf)
+ **For Loop Code**{: .label .label-lab } [**Lab 1**](lectures/intro/forLoop.java)
+:  [Functions handout](lectures/intro/functions-handout.pdf),
   [functions practice](lectures/intro/functions-practice.pdf).  
 : **Reading**{: .label .label-reading} Liang chapter 5 (loops) and chapter 6 (functions).
 
@@ -36,4 +36,4 @@ Wed, Aug 30
  : **Project**{: .label .label-proj } [**Project 1**](projects/proj1) (due Thu, Sep 8)
 
 Fri, Sep 1
-: **Lab**{: .label .label-lab } [**Lab 1**](<!--- labs/lab1/)--->
+: **Lab**{: .label .label-lab } <!--- [**Lab 1**](labs/lab1/)--->
