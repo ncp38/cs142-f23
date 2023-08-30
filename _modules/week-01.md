@@ -33,7 +33,7 @@ Wed, Aug 30
 : **Practice with functions, intro to OOP.**  
 :  [Handout with practice problems](lectures/intro/functions-practice.pdf).  
 : **Reading**{: .label .label-reading} Liang 7.0-7.8 (arrays).
- : **Project**{: .label .label-proj } [**Project 1**](projects/proj1) (due Thu, Sep 8)
+ : **Project**{: .label .label-proj } [**Project 1**](projects/proj1) (due Thu, Sep 7)
 
 Fri, Sep 1
 : **Lab**{: .label .label-lab } <!--- [**Lab 1**](labs/lab1/)--->
