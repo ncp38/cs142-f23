@@ -32,8 +32,8 @@ Mon, Aug 28
 Wed, Aug 30
 : **Practice with functions, intro to OOP.**  
   -Continue out-of-class work on functions handout.
-:  [**Functions with arrays**](lectures/OOP/Arrays and Functions.pdf).  
-  [Starting code](lectures/OOP/classPracticeBlank.java).  
+:  [**Functions with arrays**](lectures/oop/Arrays and Functions.pdf).  
+  [Starting code](lectures/oop/classPracticeBlank.java).  
 : **Reading**{: .label .label-reading} Liang 7.0-7.8 (arrays).
  : **Project**{: .label .label-proj } [**Project 1**](projects/proj1) (due Thu, Sep 7)
 
