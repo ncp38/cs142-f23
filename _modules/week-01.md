@@ -38,4 +38,4 @@ Wed, Aug 30
  : **Project**{: .label .label-proj } [**Project 1**](projects/proj1) (due Thu, Sep 7)
 
 Fri, Sep 1
-: **Lab**{: .label .label-lab }  [**Lab 1**](labs/lab2/)
+: **Lab**{: .label .label-lab }  [**Lab 1**](labs/lab1/)
