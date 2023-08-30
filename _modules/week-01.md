@@ -31,7 +31,7 @@ Mon, Aug 28
 
 Wed, Aug 30
 : **Practice with functions, intro to OOP.**  
-:  [Handout with practice problems](lectures/intro/functions-practice.pdf).  
+:  [Functions with arrays](lectures/intro/classPracticeBlank).  
 : **Reading**{: .label .label-reading} Liang 7.0-7.8 (arrays).
  : **Project**{: .label .label-proj } [**Project 1**](projects/proj1) (due Thu, Sep 7)
 
