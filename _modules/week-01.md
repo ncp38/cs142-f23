@@ -39,3 +39,18 @@ Wed, Aug 30
 
 Fri, Sep 1
 : **Lab**{: .label .label-lab }  [**Lab 1**](labs/lab1/)
+
+Mon, Sep 4
+: **Labor Day**
+
+Wed, Sep 6
+: **Object-Oriented Programming I**  
+  Introduction to OOP concepts and terminology.  
+  [OOP definitions](lectures/oop/oop-defs.pdf)
+<!--- : [**10am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/10am/src/functions/FunctionPractice.java){: .label-button } 
+	[**11am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/11am/src/functions/FunctionPractice.java){: .label-button }--->
+: **Reading**{: .label .label-reading} Sedgewick & Wayne 3.1, pp. 329-325 (OO concepts).
+: **Homework**{: .label .label-hw } [**Homework 1**](homework/hw1) (due Thu, Sep 14)
+
+<!---Fri, Sep 8
+: **Lab**{: .label .label-lab } [**Lab 2**](labs/lab2/)
