@@ -71,4 +71,4 @@ Wed, Sep 13
 : **Reading**{: .label .label-reading} Liang chapter 8 (multidimensional arrays).
   
 Fri, Sep 15
-: **Lab**{: .label .label-lab } [**Lab 3**](labs/lab3/)
+: **Lab**{: .label .label-lab } [**Lab 3**](labs/lab3/)--->
