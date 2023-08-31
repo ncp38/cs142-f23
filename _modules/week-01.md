@@ -54,3 +54,21 @@ Wed, Sep 6
 
 <!---Fri, Sep 8
 : **Lab**{: .label .label-lab } [**Lab 2**](labs/lab2/)
+
+Mon, Sep 11
+: **Object-Oriented Programming II**  
+  Using classes and objects designed by others.  
+  [SimpleCanvas and Color APIs](lectures/oop/simplecanvas-and-color.pdf)
+: [**10am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/10am/src/oop1){: .label-button } 
+  [**11am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/11am/src/oop1){: .label-button }
+  
+Wed, Sep 13
+: **Object-Oriented Programming III**  
+  OOP "gotchas" and learning about references.  
+  [Gotchas handout](lectures/oop/oop-gotchas-handout.pdf)
+: [**10am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/10am/src/oop1){: .label-button } 
+  [**11am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/11am/src/oop1){: .label-button }
+: **Reading**{: .label .label-reading} Liang chapter 8 (multidimensional arrays).
+  
+Fri, Sep 15
+: **Lab**{: .label .label-lab } [**Lab 3**](labs/lab3/)
