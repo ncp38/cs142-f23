@@ -1,9 +1,9 @@
 ---
-title: Lab 2
+title: Lab 1
 parent: Labs
 ---
 
-# CS 142 Lab 2
+# CS 142 Lab 1
 
 ## Wheel of Fortune
 
@@ -17,7 +17,7 @@ parent: Labs
 of your main cs142 projects). If something is off, you can click the folder icon at the far right of the text area and make 
 a new folder for this class work.
 
-- In the left-hand panel, expand the `src` folder to see today’s lab (in the lab2 folder). Double-click on 
+- In the left-hand panel, expand the `src` folder to see today’s lab (in the lab1 folder). Double-click on 
   WheelOfFortune (not the md file yet.) If you get a message at the top that says “Project JDK is not defined,” then click on “Setup SDK” and choose the JDK you downloaded earlier.
 
 - In the left-hand panel, double-click on `WheelOfFortune.md`. Follow the instructions in this file. This is where you will answer the questions for the lab.
