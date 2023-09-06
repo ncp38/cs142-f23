@@ -49,6 +49,7 @@ Mon, Sep 4
 Wed, Sep 6
 : **Object-Oriented Programming II**  
   Digging in deeper to OOP concepts and terminology.  Using classes and functions designed by others.
+  [**Start-up: Accessing in-class code examples**](lectures/oop/VCSSetup.pdf)
   [OOP definitions](lectures/oop/oop-defs.pdf)
 :  [SimpleCanvas and Color APIs](lectures/oop/simplecanvas-and-color.pdf)
 <!---: [**10am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/10am/src/oop1){: .label-button } 
@@ -242,7 +243,7 @@ Wed, Nov 29
 Fri, Dec 1
 : **Big Oh**  
   How computer scientists measure how fast algorithms run. 
-: **Project**{: .label .label-proj } [**Project 6**]<!---(projects/proj6)---> (due Mon, Dec 12)
+: **Project**{: .label .label-proj } [**Project 6**]<!---(projects/proj6)---> (due Sun, Dec 11)
 
 Mon, Dec 4
 : **Big Oh, continued**  
