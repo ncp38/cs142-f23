@@ -59,7 +59,7 @@ Wed, Sep 6
 : **Homework**{: .label .label-hw } [**Homework 1**](homework/hw1) (due Thu, Sep 14)
 
 Fri, Sep 8
-: **Lab**{: .label .label-lab } [**Lab 2**]<!---(labs/lab2/)--->
+: **Lab**{: .label .label-lab } [**Lab 2**](labs/lab2/)
 
 Mon, Sep 11
 : **Object-Oriented Programming III**  
