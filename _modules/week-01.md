@@ -70,10 +70,10 @@ Mon, Sep 11
 : **Reading**{: .label .label-reading} Liang chapter 8 (multidimensional arrays).
   
 Wed, Sep 13 <!---Cancel?? Or Zoom class?--->
-  A series of lectures to watch followed by in-class work!
+  A series of lectures to watch followed by in-class work!  
 :  [Lecture 1 - Debugging with Intellij](https://rhodes.instructuremedia.com/embed/75f01cbf-69f9-4c77-aeb7-96e19c0b19fa){: .label-button } 
-
-
+:  [Lecture 2 - Design Choices](https://rhodes.instructuremedia.com/embed/c1553cb0-476d-45c3-b56c-277d4420e8da){: .label-button } 
+:  [Lecture 3 - SimpleCanvas & In-Class Work](){: .label-button }
   
 Fri, Sep 15
 : **Lab**{: .label .label-lab } [**Lab 3**]<!---(labs/lab3/)--->
