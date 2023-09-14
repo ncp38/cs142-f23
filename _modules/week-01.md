@@ -76,7 +76,7 @@ Wed, Sep 13 <!---Cancel?? Or Zoom class?--->
 :  [Lecture 3 - SimpleCanvas & In-Class Work](https://rhodes.instructuremedia.com/embed/b5ee1d41-8556-4609-93ed-cade4dc2aea8){: .label-button }
   
 Fri, Sep 15
-: **Lab**{: .label .label-lab } [**Lab 3**]<!---(labs/lab3/)--->
+: **Lab**{: .label .label-lab } [**Lab 3**](labs/lab3/)
 
 Mon, Sep 18
 : **Creating Classes I**  
