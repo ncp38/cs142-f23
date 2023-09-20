@@ -49,7 +49,7 @@ Here's the URL for the assignment: [https://codecheck.io/assignment/21090220439s
 You can turn in the homework in one of two ways.  The easiest way is to paste your 
 CodeCheck ID into the Canvas assignment and submit it.
 
-The second way is you can take screenshots of your code and submit those to canvas instead.  In the past,
+The second way is you can take screenshots of your code successfully passing the checks in CodeCheck and submit those to canvas instead.  In the past,
 a handful of students have said they've experienced problems with CodeCheck not saving their progress, so this
 might work better for you.
 
