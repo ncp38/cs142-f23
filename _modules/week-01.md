@@ -94,7 +94,7 @@ Wed, Sep 20
 : **Reading**{: .label .label-reading} Liang 9.8 (public/private).
 
 Fri, Sep 22
-: **Lab**{: .label .label-lab } [**Lab 4**]<!---(labs/lab4/)--->
+: **Lab**{: .label .label-lab } [**Lab 4**](labs/lab4/)
 
 Mon, Sep 25
 : **Creating Classes III**  
