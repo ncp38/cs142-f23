@@ -14,6 +14,10 @@ using the program and modifying it, you will practice with designing and using y
 
 Follow the instructions given to you.
 
+### Code Source
+
+https://github.com/ncp38/cs142-f23-inclass
+
 ### Submitting the lab
 
 When you and your partner are done, please turn in the Java files and the questions.md file.
