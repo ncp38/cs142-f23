@@ -106,6 +106,8 @@ Mon, Sep 25
 Wed, Sep 27
 : **OO Design Practices**  
   Designing a `Fraction` class.
+: [**Exam Review (writing code)**](lectures/examPrep/midterm1-prac-inclass.pdf){: .label-button } 
+: [**Exam Review (interpreting code)**](lectures/examPrep/midterm1-prac-additional.pdf){: .label-button } 
 <!---:   [**10am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/10am/src/fraction){: .label-button } 
 	[**11am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/11am/src/fraction){: .label-button }--->
 
