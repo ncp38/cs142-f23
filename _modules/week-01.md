@@ -113,7 +113,7 @@ Wed, Sep 27
 	[**11am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/11am/src/fraction){: .label-button }--->
 
 Fri, Sep 29
-: **Lab**{: .label .label-lab } [**Lab 5**]<!---(labs/lab5/)--->
+: **Lab**{: .label .label-lab } [**Lab 5**](labs/lab5/)
 
 Mon, Oct 2
 : **Review for midterm**
