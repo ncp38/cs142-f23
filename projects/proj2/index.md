@@ -214,10 +214,20 @@ And then you would verify that your test code prints
 [2, 2, 0, 1]
 ```
 
-## What to turn in
+# *What to turn in*
 
+### 1.  Program
 
-- Through Canvas, turn in your `GumdropGatherer.java` file.  
+- Through Canvas, turn in your `GumdropGatherer.java` file.
+
+- You should use [good programming style](../../coding-style) when writing your program.
+  All other style guidelines, including proper indentation and comments, should be followed.
+
+- In particular, be sure to include a block comment at the top of your program with your name and the statement
+  ``I have neither given nor received unauthorized aid on this program.''
+
+### 2.  Questions
+
 Additionally, upload a text file answering the following questions:
 
 1. What bugs and conceptual difficulties did you encounter? How did you overcome them? What did you learn?
