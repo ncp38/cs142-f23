@@ -138,15 +138,15 @@ Mon, Oct 9
 	[**11am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/11am/src/prebreak/Exercises.java){: .label-button }--->
 
 Wed, Oct 11
-: **Lab**{: .label .label-lab } [**Lab 6**](labs/lab6/)
-: **Project**{: .label .label-proj } [**Project 3**]<!---(projects/proj3)---> (due Tue, Oct 24)
-
-Fri, Oct 13
 : **ArrayLists, Strings, and File Reading**  
   Continue practice from Wednesday.
 <!---:   [**10am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/10am/src/prebreak/Exercises.java){: .label-button } 
 	[**11am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/11am/src/prebreak/Exercises.java){: .label-button }--->
 : **Reading**{: .label .label-reading} Liang 11.11 (ArrayLists), 4.4 and 10.10 (strings).
+
+Fri, Oct 13
+: **Lab**{: .label .label-lab } [**Lab 6**](labs/lab6/)
+: **Project**{: .label .label-proj } [**Project 3**]<!---(projects/proj3)---> (due Tue, Oct 24)
 
 Mon, Oct 16
 : **Fall break**
