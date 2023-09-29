@@ -15,6 +15,8 @@ parent: Labs
 
   https://github.com/ncp38/cs142-f23-inclass
 
+<img src="SetUpURLAndDirectory.png" width=600 align=center>
+
   In the “Directory” box, double-check that the folder listed is the right place for new projects to be stored (a subfolder 
 of your main cs142 projects). If something is off, you can click the folder icon at the far right of the text area and make 
 a new folder for this class work.
