@@ -9,6 +9,8 @@ parent: Labs
 
 - Start IntelliJ. In the top-left corner of the screen, click the project dropdown and choose “Get from VCS.” This is new; we haven’t used this option before. We will make a new project to store all of our labs and code that I want to distribute to the whole class.  (This will copy my code from online into a new project-I recommend you put this in a directory with the other COMP 142 projects. Intellij *should* automatically set this to the directory you've used most recently.)
 
+<img src="GetFromVersionControl.png" width=300 align=right>
+
 - On the next screen, copy and paste in the following URL in the box that says “URL”:
 
   https://github.com/ncp38/cs142-f23-inclass
