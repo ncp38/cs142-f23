@@ -122,9 +122,22 @@ How many sticks would you like to remove from pile C? 1
 The winner is player 1!
 ```
 
-## What to turn in
+# *What to turn in*
 
-Through Canvas, turn in your `Nim.java` file.  Additionally, upload a text file answering the following questions:
+### 1.  Program
+
+Through Canvas, turn in your `Nim.java` file.
+
+- You should use [good programming style](../../coding-style) when writing your program, except that you don't
+  need to use functions in Java because we haven't fully learned them yet. You may use them if you so desire.
+  All other style guidelines, including proper indentation and comments, should be followed.
+
+- In particular, be sure to include a block comment at the top of your program with your name and the statement
+  ``I have neither given nor received unauthorized aid on this program.''
+
+### 2.  Questions
+
+Additionally, upload a text file answering the following questions:
 - What bugs and conceptual difficulties did you encounter?  How did you overcome them?  What did you learn?
 - Describe whatever help (if any) that you received.  Don't include readings, lectures, and exercises, but do 
   include any help from other sources, such as websites or people (including classmates and friends) and attribute them by name.
@@ -132,14 +145,7 @@ Through Canvas, turn in your `Nim.java` file.  Additionally, upload a text file 
 - Did you do any of the challenges (see below)?  If so, explain what you did.
 - List any other feedback you have. Feel free to provide any feedback on how much you learned from doing the assignment, and whether you enjoyed doing it.
 
-## Guidelines
 
-- You should use [good programming style](../../coding-style) when writing your program, except that you don't 
-need to use functions in Java because we haven't fully learned them yet. You may use them if you so desire. 
-All other style guidelines, including proper indentation and comments, should be followed.
-
-- In particular, be sure to include a block comment at the top of your program with your name and the statement
-  ``I have neither given nor received unauthorized aid on this program.''
 
 ## Hints and tips
 - You may choose to represent the piles either as three separate `int`s or as an `int` array (`int[]`).
