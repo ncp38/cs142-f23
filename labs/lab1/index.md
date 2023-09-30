@@ -21,6 +21,8 @@ parent: Labs
 of your main cs142 projects). If something is off, you can click the folder icon at the far right of the text area and make 
 a new folder for this class work.
 
+<img src="SetDirectory.png" width=400 align=center>
+
 - In the left-hand panel, expand the `src` folder to see today’s lab (in the lab1 folder). Double-click on 
   WheelOfFortune (not the md file yet.) If you get a message at the top that says “Project JDK is not defined,” then click on “Setup SDK” and choose the JDK you downloaded earlier.
 
