@@ -125,6 +125,9 @@ Wed, Oct 4
   More practice with the `Fraction` class.
 <!---:   [**10am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/10am/src/fraction){: .label-button } 
 	[**11am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/11am/src/fraction){: .label-button }--->
+: [**Exam Review Solutions (writing code)**](lectures/examPrep/midterm1-prep-inclass-sol.pdf){: .label-button } 
+: [**Exam Review Solutions (interpreting code)**](lectures/examPrep/midterm1-prep-addl-sol12.pdf){: .label-button } 
+: [**Exam Review Solutions (interpreting code, final question)**](lectures/examPrep/midterm1-prep-addl-sol3.pdf){: .label-button } 
 
 Fri, Oct 6
 : **Midterm I**{: .label .label-exam }
