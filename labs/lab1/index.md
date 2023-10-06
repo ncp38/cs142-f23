@@ -34,3 +34,14 @@ At the end of the lab session, upload the two files to canvas.  *Important!  Mak
 in the top bar in IntelliJ and right-clicking (or ctrl+click for Macs) and selecting Open in -> Explorer (for Macs, you'll instead want to select Open in -> Finder).
 
 <img src="OpenIn.png" width=400 align=center>
+
+-Each Java file you upload should include a header with an assignment title, your name, class number/period, and your teammates' names.
+
+-Beneath this header include a short description of what you've changed in the file.
+
+For example:
+
+//Lab 1 - Wheel of Fortune
+//John Doe, COMP 142 Section 1
+//Jane Deere, COMP 142 Section 1
+//Changed lines 250-265 to allow the user to bet their earned money on a letter.
