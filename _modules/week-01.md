@@ -163,7 +163,7 @@ Wed, Oct 18
 : **Reading**{: .label .label-reading} Liang 18.1-18.2 (recursion intro).
 
 Fri, Oct 20
-: **Lab**{: .label .label-lab } [**Lab 7**]<!---(labs/lab7/)--->
+: **Lab**{: .label .label-lab } [**Lab 7**](labs/lab7/)
 
 Mon, Oct 23
 : **Recursion II**
@@ -181,7 +181,7 @@ Wed, Oct 25
 	[**11am code**](https://github.com/pkirlin/cs142-f22-inclass/blob/11am/src/recursion/Recursion3.java){: .label-button }--->
 
 Fri, Oct 27
-: **Lab**{: .label .label-lab } [**Lab 8**]<!---(labs/lab8/)--->
+: **Lab**{: .label .label-lab } [**Lab 8**](labs/lab8/)
 
 
 Mon, Oct 30
@@ -203,7 +203,7 @@ Wed, Nov 1
 : **Homework**{: .label .label-hw } [**Homework 3**](homework/hw3) (due Thu, Nov 9)
 
 Fri, Nov 3
-: **Lab**{: .label .label-lab } [**Lab 9**]<!---(labs/lab9/)--->
+: **Lab**{: .label .label-lab } [**Lab 9**](labs/lab9/)
 
 Mon, Nov 6
 : **Inheritance II**
@@ -212,7 +212,7 @@ Wed, Nov 8
 
 
 Fri, Nov 10
-: **Lab**{: .label .label-lab } [**Lab 10**]<!---(labs/lab10/)--->
+: **Lab**{: .label .label-lab } [**Lab 10**](labs/lab10/)
 : **Finish lab 10**
 
 Mon, Nov 13
