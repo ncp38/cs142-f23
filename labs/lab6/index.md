@@ -1,15 +1,15 @@
 ---
-title: Lab 5
+title: Lab 6
 parent: Labs
 ---
 
-# CS 142 Lab 5
+# CS 142 Lab 6
 
-For this lab, we're using the same randomized partners as last week!  (Your pairing will be put up on the screen at the beginning of class.)
+For this lab, we're using the same randomized partners as last week!
 
-## Memphis maps, roads, and parks
+## The snake game
 
-You'll investigate and design several maps related to Memphis, including maps of roads and parks!  This will help you learn about ArrayLists in Java and become more proficient using and writing classes.
+You'll investigate and design a classic Snake game, where a player controls a snake on a 2D grid as it seeks to eat items to become bigger!  This will help you improve your ability to make design choices in your programming, use/practice with ArrayLists and Strings, and practice with instantiating objects and calling instance methods on them.
 
 ### Getting started
 

@@ -33,3 +33,16 @@ objects, calling instance methods, and multidimensional arrays.
 
 When you and your partner are done, please turn in the `TicTacToe.java` file and 
 the `TicTacToe.md` file to canvas.
+
+-Each Java file you upload should include a header with an assignment title, your name, class number/period, and your teammates' names.  (Your names need to be listed in the questions.md file as well!)
+
+-Beneath this header include a short description of what you've changed in the file.
+
+For example:
+
+```java
+//Lab 2 - Tic Tac Toe
+//John Doe, COMP 142 Section 1
+//Jane Deere, COMP 142 Section 1
+//Changed lines 180-235 to allow three player games on different-sized boards.
+```
