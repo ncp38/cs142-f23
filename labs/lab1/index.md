@@ -41,7 +41,9 @@ in the top bar in IntelliJ and right-clicking (or ctrl+click for Macs) and selec
 
 For example:
 
+```java
 //Lab 1 - Wheel of Fortune
 //John Doe, COMP 142 Section 1
 //Jane Deere, COMP 142 Section 1
 //Changed lines 250-265 to allow the user to bet their earned money on a letter.
+```
