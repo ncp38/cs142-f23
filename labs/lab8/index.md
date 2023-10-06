@@ -1,15 +1,15 @@
 ---
-title: Lab 7
+title: Lab 8
 parent: Labs
 ---
 
-# CS 142 Lab 7
+# CS 142 Lab 
 
-For this lab, we'll be using new randomized partners!  (Your pairing will be put up on the screen at the beginning of class.)
+For this lab, we'll be using the same randomized partners!  (Your pairing will be put up on the screen at the beginning of class.)
 
-## Recursion, recursion diagrams, and the Tower of Hanoi
+## Backtracking
 
-In this lab, you'll explore recursion and using recursive functions!  When you finish, you'll have worked with recursive functions, analyzed how they operate, and used them to investigate the Tower of Hanoi logic puzzle.
+In this lab, you'll explore the concept of backtracking!  You'll learn what backtracking is, evaluate how it could be implemented programmatically, and begin to think about it as an algorithm.
 
 ### Getting started
 
