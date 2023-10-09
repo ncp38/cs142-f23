@@ -139,7 +139,7 @@ Mon, Oct 9
   [Practice problems](lectures/arraylists-str/practice.pdf)
 <!---:   [**10am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/10am/src/prebreak/Exercises.java){: .label-button } 
 	[**11am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/11am/src/prebreak/Exercises.java){: .label-button }--->
-: **Project**{: .label .label-proj } [**Project 3**]<!---(projects/proj3)---> (due Tue, Oct 24)
+: **Project**{: .label .label-proj } [**Project 3**](projects/proj3) (due Tue, Oct 24)
 
 Wed, Oct 11
 : **ArrayLists, Strings, and File Reading**  
