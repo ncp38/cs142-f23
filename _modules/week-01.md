@@ -191,7 +191,7 @@ Mon, Oct 30
 : [**Slides**](lectures/recursion/day4-binsearch-slides.pdf){: .label-button } 
 <!---	[**10am code**](https://github.com/pkirlin/cs142-f22-inclass/blob/10am/src/recursion/BinarySearch.java){: .label-button } 
 	[**11am code**](https://github.com/pkirlin/cs142-f22-inclass/blob/11am/src/recursion/BinarySearch.java){: .label-button }--->
-: **Project**{: .label .label-proj } [**Project 4**]<!---(projects/proj4)---> (due Mon, Nov 13)
+: **Project**{: .label .label-proj } [**Project 4**]<!---(projects/proj4)---> (due Tue, Nov 14)
 
 Wed, Nov 1
 : **Inheritance I**  
