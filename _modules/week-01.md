@@ -158,7 +158,7 @@ Wed, Oct 18
 : **Recursion I**  
   [Recursion handout](lectures/recursion/recursion-handout.pdf)
 : [**Slides**](lectures/recursion/recursion-1-slides.pdf){: .label-button } 
-	[**Recursion 1**](https://github.com/ncp38/cs142-f23-inclass/tree/main/src/recursion/recursion1.java){: .label-button } 
+	[**Recursion 1**](https://github.com/ncp38/cs142-f23-inclass/tree/main/src/recursion/Recursion1.java){: .label-button } 
 : **Reading**{: .label .label-reading} Liang 18.1-18.2 (recursion intro).
 
 Fri, Oct 20
