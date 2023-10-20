@@ -79,11 +79,19 @@ sections after Introduction, most of the code can be found in the Github reposit
 
 ## Inheritance
 
+:  [Inheritance handout](lectures/inheritance/Inheritance-handout.pdf) 
+
 ### Inheritance Practice and Examples
+
+: [**Slides**](lectures/inheritance/day1-inherit-slides.pdf){: .label-button } 
 
 ## Polymorphism
 
 ### Polymorphism Practice and Examples
+
+## Interfaces
+
+### Interfaces Practice and Examples
 
 ##Big Oh Analysis
 
