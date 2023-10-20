@@ -10,7 +10,7 @@ sections after Introduction, most of the code can be found in the Github reposit
 
 ## General
 
-   [Start-up: Accessing in-class code examples](lectures/oop/VCSSetup.pdf)
+:   [Start-up: Accessing in-class code examples](lectures/oop/VCSSetup.pdf)
 :  [Debugging with Intellij](https://rhodes.instructuremedia.com/embed/75f01cbf-69f9-4c77-aeb7-96e19c0b19fa){: .label-button } 
 :  [Design Choices](https://rhodes.instructuremedia.com/embed/c1553cb0-476d-45c3-b56c-277d4420e8da){: .label-button } 
 
@@ -24,7 +24,7 @@ sections after Introduction, most of the code can be found in the Github reposit
 
  [Exam Review 1 (writing code)](lectures/examPrep/midterm1-prac-inclass.pdf){: .label-button } 
 : [Exam Review 1 (interpreting code)](lectures/examPrep/midterm1-prac-additional.pdf){: .label-button } 
-:: [Exam Review Solutions (writing code)](lectures/examPrep/midterm1-prep-inclass-sol.pdf){: .label-button } 
+: [Exam Review Solutions (writing code)](lectures/examPrep/midterm1-prep-inclass-sol.pdf){: .label-button } 
 : [Exam Review Solutions (interpreting code)](lectures/examPrep/midterm1-prep-addl-sol12.pdf){: .label-button } 
 : [Exam Review Solutions (interpreting code, final question)](lectures/examPrep/midterm1-prep-addl-sol3.pdf){: .label-button } 
 
@@ -71,7 +71,7 @@ sections after Introduction, most of the code can be found in the Github reposit
 
 ### Recursion Practice and Examples
 
- [Recursion I Slides](lectures/recursion/recursion-1-slides.pdf){: .label-button } 
+  [Recursion I Slides](lectures/recursion/recursion-1-slides.pdf){: .label-button } 
 : [Recursion III Slides](lectures/recursion/day3-recursion-with-arrays-slides.pdf){: .label-button } 
 : [Recursion IV Slides](lectures/recursion/day4-binsearch-slides.pdf){: .label-button } 
 
