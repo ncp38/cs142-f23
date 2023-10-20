@@ -7,9 +7,9 @@ parent: Labs
 
 For this lab, we'll be using new randomized partners!  (Your pairing will be put up on the screen at the beginning of class.)
 
-## Recursion, recursion diagrams, and the Tower of Hanoi
+## Recursion, recursive algorithms, and recursion diagrams
 
-In this lab, you'll explore recursion and using recursive functions!  When you finish, you'll have worked with recursive functions, analyzed how they operate, and used them to investigate the Tower of Hanoi logic puzzle.
+In this lab, you'll explore recursion and using recursive functions!  When you finish, you'll have worked with recursive functions, created several recursive functions yourself, and analyzed how they operate.
 
 ### Getting started
 
