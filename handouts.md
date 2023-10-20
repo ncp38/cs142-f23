@@ -10,13 +10,13 @@ sections after Introduction, most of the code can be found in the Github reposit
 
 ## General
      
-   [Start-up: Accessing in-class code examples](lectures/oop/VCSSetup.pdf)
+[Start-up: Accessing in-class code examples](lectures/oop/VCSSetup.pdf)
 :  [Debugging with Intellij](https://rhodes.instructuremedia.com/embed/75f01cbf-69f9-4c77-aeb7-96e19c0b19fa){: .label-button } 
 :  [Design Choices](https://rhodes.instructuremedia.com/embed/c1553cb0-476d-45c3-b56c-277d4420e8da){: .label-button } 
 
 ### APIs
 
-  [SimpleCanvas and Color APIs](lectures/oop/simplecanvas-and-color.pdf)
+[SimpleCanvas and Color APIs](lectures/oop/simplecanvas-and-color.pdf)
 :  [String handout](lectures/arraylists-str/strings-handout.pdf),
 :  [ArrayList handout](lectures/arraylists-str/arraylists-handout.pdf),
 
