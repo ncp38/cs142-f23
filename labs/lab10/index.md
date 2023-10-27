@@ -5,11 +5,11 @@ parent: Labs
 
 # CS 142 Lab 10
 
-For this lab, we'll be using the same randomized partners!  (Your pairing will be put up on the screen at the beginning of class.)
+For this lab, we'll be using new randomized partners!  (Your pairing will be put up on the screen at the beginning of class.)
 
-## Blackjack and Programming with Object-Oriented Programming
+## Inheritance, Polymorphism, and Java
 
-In this lab, you'll work with functions related to playing a game of blackjack!  When you finish, you'll have explored new elements of object-oriented programming, including enums and interfaces, as well as other standard OOP concepts.
+In this lab, you'll explore inheritance and polymorphism!  When you finish, you'll have a better practical understanding of object-oriented programming, allowing you to use superclasses, subclasses, and reference them in particular ways to solve programming challenges.
 
 ### Getting started
 

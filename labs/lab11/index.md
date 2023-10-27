@@ -1,15 +1,15 @@
 ---
-title: Lab 9
+title: Lab 11
 parent: Labs
 ---
 
-# CS 142 Lab 9
+# CS 142 Lab 11
 
-For this lab, we'll be using new randomized partners!  (Your pairing will be put up on the screen at the beginning of class.)
+For this lab, we'll be using the same randomized partners!  (Your pairing will be put up on the screen at the beginning of class.)
 
-## backtracking
+## Blackjack and Programming with Object-Oriented Programming
 
-In this lab, you’ll explore the concept of backtracking! You’ll learn what backtracking is, evaluate how it could be implemented programmatically, and begin to think about it as an algorithm.
+In this lab, you'll work with functions related to playing a game of blackjack!  When you finish, you'll have explored new elements of object-oriented programming, including enums and interfaces, as well as other standard OOP concepts.
 
 ### Getting started
 
