@@ -194,6 +194,7 @@ Mon, Oct 30
 
 Wed, Nov 1
 : **Practice with Recursion**  
+  [Recursion Problem handout](lectures/recursion/RecursionPracticeProblems.pdf)
 : **Homework**{: .label .label-hw } [**Homework 3**](homework/hw3) (due Thu, Nov 9)
 
 Fri, Nov 3
