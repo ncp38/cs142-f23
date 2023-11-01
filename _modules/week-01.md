@@ -193,22 +193,22 @@ Mon, Oct 30
 : **Project**{: .label .label-proj } [**Project 4**](projects/proj4) (due Tue, Nov 14)
 
 Wed, Nov 1
-: **Inheritance I**  
-  [Inheritance handout](lectures/inheritance/Inheritance-handout.pdf) 
-: [**Slides**](lectures/inheritance/day1-inherit-slides.pdf){: .label-button } 
-<!---	[**10am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/10am/src/inherit1){: .label-button } 
-	[**11am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/11am/src/inherit1){: .label-button }--->
-: **Reading**{: .label .label-reading} Liang 11.1-11.2 (inheritance). 
+: **Practice with Recursion**  
 : **Homework**{: .label .label-hw } [**Homework 3**](homework/hw3) (due Thu, Nov 9)
 
 Fri, Nov 3
 : **Lab**{: .label .label-lab } [**Lab 9**](labs/lab9/)
 
 Mon, Nov 6
-: **Inheritance II**
+: **Inheritance I**  
+  [Inheritance handout](lectures/inheritance/Inheritance-handout.pdf) 
+: [**Slides**](lectures/inheritance/day1-inherit-slides.pdf){: .label-button } 
+<!---	[**10am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/10am/src/inherit1){: .label-button } 
+	[**11am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/11am/src/inherit1){: .label-button }--->
+: **Reading**{: .label .label-reading} Liang 11.1-11.2 (inheritance). 
 
 Wed, Nov 8
-
+: **Inheritance II**
 
 Fri, Nov 10
 : **Lab**{: .label .label-lab } [**Lab 10**](labs/lab10/)
