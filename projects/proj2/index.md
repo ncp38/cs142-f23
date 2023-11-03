@@ -241,7 +241,7 @@ and attribute them by name.
 5. List any other feedback you have. Feel free to provide any feedback on how much you 
 learned from doing the assignment, and whether you enjoyed doing it.
 
-## 	Challenges
+## Challenges
 
 - Add additional functionality to the game like you might find in games like Candy Crush Saga, Angry Birds, Toon Blast, etc.
 - For example, make up different kinds of "items" that can appear in squares on the board. Like a bomb that explodes neighboring squares, or a present that earns you bonus points.
@@ -368,7 +368,8 @@ earned.
   and it returns `true`.  At this point all the pieces are as low as possible, but
   the function must be called one more time to return `false` in order to determine that.
 
-## Other games <!-- omit in toc -->
+<!-- omit in toc -->
+## Other games 
 
 - If you don't like this game, you can make a different one. The requirements are that it must involve a customizable-size board, and it must involve some concept where you examine the "neighbors" of the squares on the board.
 - Some ideas are: Minesweeper, Connect 4, 2048, Candy Crush, Angry Birds, ...
