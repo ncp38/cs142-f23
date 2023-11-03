@@ -222,6 +222,8 @@ And then you would verify that your test code prints
 
 - You should use [good programming style](../../coding-style) when writing your program.
   All other style guidelines, including proper indentation and comments, should be followed.
+  
+- You should use JavaDoc comments for your methods in addition to your regular comments.
 
 - In particular, be sure to include a block comment at the top of your program with your name and the statement
   ``I have neither given nor received unauthorized aid on this program.''
