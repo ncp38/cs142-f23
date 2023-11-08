@@ -215,7 +215,6 @@ Wed, Nov 8
 
 Fri, Nov 10
 : **Lab**{: .label .label-lab } [**Lab 10**](labs/lab10/)
-: **Finish lab 10**
 
 Mon, Nov 13
 : **Polymorphism I**  
