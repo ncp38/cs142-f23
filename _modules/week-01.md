@@ -210,6 +210,8 @@ Mon, Nov 6
 
 Wed, Nov 8
 : **Inheritance II**
+  [Inheritance II handout](lectures/inheritance/Inheritance-handout-2.pdf) 
+: [**Slides**](lectures/inheritance/day2-inherit-slides.pdf){: .label-button } 
 
 Fri, Nov 10
 : **Lab**{: .label .label-lab } [**Lab 10**](labs/lab10/)
