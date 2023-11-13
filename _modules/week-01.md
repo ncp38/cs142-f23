@@ -218,7 +218,7 @@ Fri, Nov 10
 
 Mon, Nov 13
 : **Polymorphism I**  
-:  [Midterm II Study Guide](lectures/exampPrep/exam2-prac.pdf) 
+:  [Midterm II Study Guide](lectures/examPrep/exam2-prac.pdf) 
 <!---	[**10am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/10am/src/poly1){: .label-button } 
 	[**11am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/11am/src/poly1){: .label-button }--->
 : **Reading**{: .label .label-reading} Liang 11.7-11.9 (polymorphism). 
