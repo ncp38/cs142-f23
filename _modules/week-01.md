@@ -225,7 +225,7 @@ Mon, Nov 13
 
 Wed, Nov 15
 : **Polymorphism II (abstract classes) and Review**  
-:  [Midterm II Study Guide](lectures/examPrep/exam2-prac-solutions.pdf) 
+:  [Midterm II Study Guide Solutions](lectures/examPrep/exam2-prac-solutions.pdf) 
 <!---	[**10am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/10am/src/poly2){: .label-button } 
 	[**11am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/11am/src/poly2){: .label-button }  --->
 : **Project**{: .label .label-proj } [**Project 5**](projects/proj5) (due Thu, Nov 30)
