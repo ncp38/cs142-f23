@@ -28,7 +28,7 @@ Your browser does not support the video tag.
 You can download the starter code for this assignment by creating a new IntelliJ project from version control (VCS) and using the following URL:
 
 ```
-https://github.com/pkirlin/cs142-f22-proj5
+https://github.com/ncp38/cs142-f23-inclass
 ```
 
 ## Concepts in this program
@@ -286,7 +286,8 @@ Write a main method to let the user pick which test they want to see:
    - SpinBug
    - RoutineBug (using the routine from above)
    - SquareBug
-   - ImitationBug (imitating a RoutineBug) [<i>earlier this said "imitating a SquareBug," which is also fine, but that's not a test case I asked you to write</i>]
+   - ImitationBug (imitating a SpinBug) 
+   - ImitationBug (imitating a RoutineBug) 
    - MirrorBug (mirroring a SquareBug)
    - CongaBug (3-bug conga line)
 
@@ -298,6 +299,9 @@ Through Canvas, turn in all your `.java` files.
 
 - You should use [good programming style](../../coding-style) when writing your program.
   All other style guidelines, including proper indentation and comments, should be followed.
+  
+- As described in the main() function section above, all the tests discussed need to be written, 
+  and your main method should allow users to pick between these tests!
 
 - In particular, be sure to include a block comment at the top of your program with your name and the statement
   ``I have neither given nor received unauthorized aid on this program.''
