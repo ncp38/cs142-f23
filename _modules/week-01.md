@@ -251,13 +251,12 @@ Mon, Nov 27
 : **Reading**{: .label .label-reading} Liang 11.5-11.6 (interfaces). 
 
 Wed, Nov 29
-: **Lab**{: .label .label-lab } [**Lab 11**]<!---(labs/lab11/)--->
-
-Fri, Dec 1
 : **Big Oh**  
   How computer scientists measure how fast algorithms run. 
-: **Project**{: .label .label-proj } [**Project 6**]<!---(projects/proj6)---> (due Sun, Dec 11)
 
+Fri, Dec 1
+: **Lab**{: .label .label-lab } [**Lab 11**]<!---(labs/lab11/)--->
+: **Project**{: .label .label-proj } [**Project 6**]<!---(projects/proj6)---> (due Sun, Dec 11)
 Mon, Dec 4
 : **Big Oh, continued**  
   [Big Oh handout](lectures/big-oh/bigoh-handout.pdf) 
