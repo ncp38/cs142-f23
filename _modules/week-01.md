@@ -224,7 +224,7 @@ Mon, Nov 13
 : **Reading**{: .label .label-reading} Liang 11.7-11.9 (polymorphism). 
 
 Wed, Nov 15
-: **Polymorphism II (abstract classes) and Review**  
+: **Review, Polymorphism Continued**  
 :  [Midterm II Study Guide Solutions](lectures/examPrep/exam2-prac-solutions.pdf) 
 <!---	[**10am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/10am/src/poly2){: .label-button } 
 	[**11am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/11am/src/poly2){: .label-button }  --->
@@ -234,9 +234,7 @@ Fri, Nov 17
 : **Midterm II**{: .label .label-exam }
 
 Mon, Nov 20
-: **Band in a Box (abstract classes)**  
-<!---	[**10am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/10am/src/bandinabox){: .label-button } 
-	[**11am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/11am/src/bandinabox){: .label-button } --->
+: **Polymorphism II (abstract classes)**
 
 Wed, Nov 22
 : No class, Thanksgiving break
@@ -245,21 +243,24 @@ Fri, Nov 24
 : No class, Thanksgiving break
 
 Mon, Nov 27
+: **Band in a Box (abstract classes)**  
+<!---	[**10am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/10am/src/bandinabox){: .label-button } 
+	[**11am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/11am/src/bandinabox){: .label-button } --->
+
+Wed, Nov 29
 : **Interfaces**  
 <!---	[**10am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/10am/src/interfaces1){: .label-button } 
 	[**11am code**](https://github.com/pkirlin/cs142-f22-inclass/tree/11am/src/interfaces1){: .label-button }--->
 : **Reading**{: .label .label-reading} Liang 11.5-11.6 (interfaces). 
 
-Wed, Nov 29
-: **Big Oh**  
-  How computer scientists measure how fast algorithms run. 
-
 Fri, Dec 1
 : **Lab**{: .label .label-lab } [**Lab 11**]<!---(labs/lab11/)--->
 : **Project**{: .label .label-proj } [**Project 6**]<!---(projects/proj6)---> (due Sun, Dec 11)
+
 Mon, Dec 4
-: **Big Oh, continued**  
-  [Big Oh handout](lectures/big-oh/bigoh-handout.pdf) 
+: **Big Oh**  
+  How computer scientists measure how fast algorithms run. 
+: [Big Oh handout](lectures/big-oh/bigoh-handout.pdf) 
 
 Wed, Dec 6
 : TBD
