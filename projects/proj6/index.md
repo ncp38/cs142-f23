@@ -27,7 +27,7 @@ You may also work with a partner for this project if you desire.
 You can download the starter code for this assignment by creating a new IntelliJ project from version control (VCS) and using the following URL:
 
 ```
-https://github.com/pkirlin/cs142-f22-proj6
+https://github.com/ncp38/cs142-f23-inclass
 ```
 
 ## Concepts in this program
@@ -180,12 +180,16 @@ all the files.
 - You should use [good programming style](../../coding-style) when writing your program.
   All other style guidelines, including proper indentation and comments, should be followed.
   
+- In particular, be sure to include a block comment at the top of your program with your name and the statement
+  ``I have neither given nor received unauthorized aid on this program.''
+  
 - Make sure that there is a class that can run your game-to start the game, a user should
 be able to download your files and simply hit play to begin.  (Though you can prompt the user 
 for difficulty/game parameters/etc. on startup if you so desire.)
 
-- In particular, be sure to include a block comment at the top of your program with your name and the statement
-  ``I have neither given nor received unauthorized aid on this program.''
+- There are no formal testing requirements listed in this document-but make sure to test your
+program carefully!  Bugs and intended behaviour can result in points being taken off.  You should
+document any issues, bugs, or unusual cases in your code.  This makes for a stronger final product!
 
 ### 2.  Questions
 
