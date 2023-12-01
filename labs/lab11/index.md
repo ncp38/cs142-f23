@@ -5,7 +5,7 @@ parent: Labs
 
 # CS 142 Lab 11 - The One Where You Learn How To Make Money With Math (but, no, please don't try this at home!)
 
-For this lab, we'll be using the same randomized partners!  (Your pairing will be put up on the screen at the beginning of class.)
+For this lab, you can choose a partner of your choice!  (Make sure that you partner with at least one other person; if there's an odd number of people in the class we'll do a three-person group.)
 
 ## Blackjack and Programming with Object-Oriented Programming
 
