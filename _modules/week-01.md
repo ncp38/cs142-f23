@@ -254,7 +254,7 @@ Wed, Nov 29
 : **Reading**{: .label .label-reading} Liang 11.5-11.6 (interfaces). 
 
 Fri, Dec 1
-: **Lab**{: .label .label-lab } [**Lab 11**]<!---(labs/lab11/)--->
+: **Lab**{: .label .label-lab } [**Lab 11**](labs/lab11/)
 : **Project**{: .label .label-proj } [**Project 6**](projects/proj6) (due Sun, Dec 11)
 
 Mon, Dec 4
