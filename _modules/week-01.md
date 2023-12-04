@@ -261,6 +261,8 @@ Mon, Dec 4
 : **Big Oh**  
   How computer scientists measure how fast algorithms run. 
 : [Big Oh handout](lectures/big-oh/bigoh-handout.pdf) 
+: [Midterm II Study Guide](lectures/examPrep/final-prac-problems-f23.pdf) 
 
 Wed, Dec 6
 : TBD
+
