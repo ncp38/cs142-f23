@@ -264,7 +264,7 @@ Mon, Dec 4
 : [Final Study Guide](lectures/examPrep/final-prac-problems-f23.pdf) 
 
 Wed, Dec 6
-: Final Review and closing remarks!
+: Final Review!!
 : [Final Solutions](lectures/examPrep/final-prac-problems-sol-f23.pdf) 
 
 
